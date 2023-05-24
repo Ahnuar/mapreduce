@@ -1,0 +1,11 @@
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\bin\Debug\ERP-MAP-REDUCE.exe.config
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\bin\Debug\ERP-MAP-REDUCE.exe
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\bin\Debug\ERP-MAP-REDUCE.pdb
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\obj\Debug\ERP-MAP-REDUCE.csproj.AssemblyReference.cache
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\obj\Debug\ERP-MAP-REDUCE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\obj\Debug\ERP_MAP_REDUCE.Frmain.resources
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\obj\Debug\ERP_MAP_REDUCE.Properties.Resources.resources
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\obj\Debug\ERP-MAP-REDUCE.csproj.GenerateResource.cache
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\obj\Debug\ERP-MAP-REDUCE.csproj.CoreCompileInputs.cache
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\obj\Debug\ERP-MAP-REDUCE.exe
+C:\Users\Ahnua\source\repos\ERP-MAP-REDUCE\ERP-MAP-REDUCE\obj\Debug\ERP-MAP-REDUCE.pdb
